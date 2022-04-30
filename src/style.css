@@ -1,0 +1,64 @@
+.container {
+  max-width: 900px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+.in-city-currently {
+  font-family: "Quicksand", sans-serif;
+  font-size: 28px;
+}
+.date {
+  font-size: 20px;
+  font-weight: normal;
+}
+.today-weather-icon {
+  border: 2px solid black;
+  border-radius: 95px;
+  padding: 30px;
+  font-size: 100px;
+}
+.current-forecast {
+  margin: 30px;
+}
+.today-temp {
+  text-align: center;
+  font-size: 75px;
+}
+.today-weather {
+  font-size: 37px;
+  font-family: "Quicksand", sans-serif;
+}
+.current-high-low {
+  padding: 4px 0px;
+  font-size: 18px;
+}
+.current-high {
+  border: 2px solid red;
+  padding: 0px 15px;
+}
+.current-low {
+  border: 2px solid blue;
+  padding: 0px 15px;
+}
+.col-2 {
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+}
+.daily-fore {
+  padding: 3px;
+  border: 1px solid black;
+}
+.fore-icon {
+  font-size: 40px;
+}
+.high {
+  border: 2px solid red;
+}
+.low {
+  border: 2px solid blue;
+}
+.day {
+  font-weight: bold;
+}
